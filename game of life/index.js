@@ -1,7 +1,7 @@
 let canvas=document.getElementById("canvas")
-canvas.width = 600;
-canvas.height = 600;
-const cellSide = 60;
+canvas.width = 400;
+canvas.height = 400;
+const cellSide = 40;
 let ctx = canvas.getContext('2d');
 // יצירת גריד
 function makeArray(col,row){
