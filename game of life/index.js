@@ -15,9 +15,6 @@ return arr;
 let col =10;
 let row=10;
 let grid
-// $(document).ready(function () {
-//     $(data).addClass("grid");
-// });
 let res=10;
 function setup(){
     grid=makeArray(col,row);
